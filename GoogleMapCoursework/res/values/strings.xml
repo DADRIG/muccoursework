@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Commenwealth Games 2014</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="str_rb_normal">Normal</string>
+    <string name="str_rb_satellite">Satellite</string>
+    <string name="str_rb_terrain">Terrain</string>
+
+    <color name="bg_color">#ffffff</color>
+
+    <string-array name="cities_arrays">
+        <item> GLASGOW </item>
+        <item> DELHI </item>
+        <item> MELBOURNE </item>
+        <item> MANCHESTER </item>
+        <item> KUALALUMPUR </item>
+        <item> VICTORIA </item>
+        <item>AUCKLAND </item>
+        <item> BRISBANE </item>
+        <item> EDMONTON </item>
+        <item> CHRISTCHURCH </item>
+        <item> EDINBURGH </item>
+    </string-array>
+    <string-array name="lat_value">
+        <item>LATITUDE</item>
+    </string-array>
+    <string-array name="long_value">
+        <item>LONGITUDE</item>
+    </string-array>
+
+</resources>
